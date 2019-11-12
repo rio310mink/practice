@@ -1,7 +1,7 @@
 
 ## ディレクトリ構造
 
-- ###rio.practice <br>
+- **rio.practice** <br>
 2つのディレクトリに格納されているファイルから生成されるサイトは同一のものです。
 
     - **css.practice**
